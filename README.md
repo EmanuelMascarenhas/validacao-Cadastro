@@ -1,3 +1,28 @@
+# 🛡️ Validação de Cadastro com WindowBuilder
+
+O **valida-cadastro** é uma aplicação desktop desenvolvida em Java com interface gráfica (GUI) que implementa rotinas robustas para a validação de campos e integridade de informações em telas de cadastro de usuários.
+
+## 🚀 Funcionalidades
+
+* **Validação de Campos Obrigatórios:** Garante que informações essenciais não sejam enviadas em branco.
+* **Segurança de Dados:** Tratamento de entradas para evitar falhas comuns e garantir a formatação correta.
+* **Interface Gráfica Intuitiva:** Desenvolvida de forma visual utilizando a ferramenta WindowBuilder para o ecossistema Swing/AWT.
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Java (POO)
+* **Interface Visual:** WindowBuilder / Java Swing
+* **IDE Recomendada:** Eclipse ou IntelliJ IDEA
+
+## 📦 Como Executar o Projeto
+
+1. Certifique-se de ter o **Java JDK** instalado na sua máquina Linux Mint.
+2. Clone este repositório no seu terminal:
+   ```bash
+   git clone https://github.com
+   ```
+3. Abra a pasta do projeto na sua IDE de preferência.
+4. Execute a classe principal que contém o método `main` para iniciar a interface gráfica.
 
 ---
 
@@ -15,16 +40,15 @@ Este projeto tem como propósito:
 
 ## 👨‍💻 Sobre o Desenvolvedor
 
-Olá! Sou Emanuel Mascarenhas, profissional em transição da área técnica (manutenção elétrica entre outras) para o desenvolvimento de software.  
+Olá! Sou Emanuel Mascarenhas, profissional em transição da área técnica para o desenvolvimento de software.  
 Atualmente estudo:
 
-- **Java**
-- **Spring Boot**
+- **Java & Spring Boot**
+- **JavaScript & Desenvolvimento Web**
 - **MySQL**
-- **Tailwind CSS**
 - **Arquitetura e boas práticas de código**
 
-Sigo buscando oportunidades de crescimento e aprendizado como **desenvolvedor Full Stack em formação**.
+Sigo buscando oportunidades de crescimento e aprendizado como **desenvolvedor em formação**.
 
 ---
 
@@ -32,9 +56,8 @@ Sigo buscando oportunidades de crescimento e aprendizado como **desenvolvedor Fu
 
 Fique à vontade para me chamar:
 
-- [LinkedIn](www.linkedin.com/in/emanuel-mascarenhas)
-) 
-- Email: mascarenhas24@hotmail.com
+- [LinkedIn](https://linkedin.com)
+- Email: luiz.mascarenhas80@gmail.com
 
 ---
 
